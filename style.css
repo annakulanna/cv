@@ -60,6 +60,7 @@ body {
   
   height: 50px;
   background-color: black;
+  line-height: 43px;
 }
 
 h1{
@@ -68,13 +69,11 @@ h1{
 }
 
 h2 {
-  margin-top: 20px;
   font-weight: bold;
   font-size: 24px;
   letter-spacing: 0.01em;
   text-transform: uppercase;
   color: #FFFFFF;
-  
 }
 
 .university{
@@ -141,7 +140,7 @@ h4 {
   text-transform: uppercase;
   font-style: normal;
   margin: 0;
-  font-size: 22px;
+  font-size: 20px;
   color: #242424;
   
 }
